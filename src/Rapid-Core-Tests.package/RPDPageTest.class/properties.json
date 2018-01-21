@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 1/21/2018 21:34",
+	"super" : "TestCase",
+	"category" : "Rapid-Core-Tests-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RPDPageTest",
+	"type" : "normal"
+}

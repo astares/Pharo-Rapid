@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 1/21/2018 21:31",
+	"super" : "Object",
+	"category" : "Rapid-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id"
+	],
+	"name" : "RPDObject",
+	"type" : "normal"
+}
