@@ -4,7 +4,9 @@
 	"category" : "Rapid-Core-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"Default"
+	],
 	"instvars" : [ ],
 	"name" : "RPDLibrary",
 	"type" : "normal"

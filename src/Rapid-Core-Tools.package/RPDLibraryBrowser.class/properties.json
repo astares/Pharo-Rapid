@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "TorstenBergmann 1/21/2018 21:31",
+	"commentStamp" : "TorstenBergmann 1/21/2018 21:43",
 	"super" : "Object",
-	"category" : "Rapid-Core-Model",
+	"category" : "Rapid-Core-Tools-UI",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "RPDObject",
+	"name" : "RPDLibraryBrowser",
 	"type" : "normal"
 }
