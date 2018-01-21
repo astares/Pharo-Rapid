@@ -1,0 +1,6 @@
+private - icons
+iconProviderIconContents
+
+	^'R0lGODlhEAAQAKIAAL+/n////7+/v5+fn4CAgH9/f19fX////yH5BAEAAAcALAAAAAAQABAA
+AANHeLrcOzBKqUa4ON9StQ/cYX1ZKJClQBBAAKzty4LEQBhBfecXXhQr3GpH6IEEBkMsuVSC
+FCfUpiN9iqrWkTQ0+Hm/X4d4kQAAOw=='
