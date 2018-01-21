@@ -1,4 +1,4 @@
-examples
+*Rapid-Core-Tools
 example
 	<example>
 	
@@ -6,4 +6,4 @@ example
 	lib := RPDLibrary new.
 	lib addShelf: (RPDShelf named: 'admin').
 	
-	^lib
+	RPDLibraryBrowser openOn: lib
