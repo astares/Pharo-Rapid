@@ -1,0 +1,10 @@
+private - icons
+pageIconContents
+
+	^'R0lGODlhEAAQANUAAPP1+/j5/IORsYORsIeTroOSsYKRsIOSsO7y+vL1+/n6/Pj5+4aavoyf
+woaUrouWq/D0+5Omxpqsy6Kzz6i406y81d7o+N3n99/o9+Ts+efu+e3y+vP2+9zn99/p+N7o
+9+Hq+Orw+fb4+5CaqObu+fD1+/L2+5adpPX4+/f5+5WdpJuhoaGknKeomKeoma2rlbKvkrKu
+kru0i7exjrexj7+2iODIj9SyaNSyadq9fNWyaf///wAAAAAAAAAAAAAAACH5BAEAADsALAAA
+AAAQABAAAAZ/wJ1wSCwSa8gk0iisKZ5QXI0pSwUW1kBONy3SUJJIgyGy5W6zYizBMXEAnDgH
+VnyVKpRJeAx5FVsbGwiBhBsuRSwheHpiDCEsRSskGpSVkytFKhmLewwZJ0UjIKOkpCNFDx6M
+YxgfFg9FDh0dF7S0tQRFAgUHBry9BwIDTMRDQQA7'

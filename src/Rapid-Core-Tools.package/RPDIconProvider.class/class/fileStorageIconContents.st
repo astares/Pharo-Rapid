@@ -1,0 +1,6 @@
+private - icons
+fileStorageIconContents
+
+	^'R0lGODlhEAAQAKIAAN/fv////7+/v5+fn4CAgH9/f19fX////yH5BAEAAAcALAAAAAAQABAA
+AANMeLrcvmKQScQ7goS9jXVDZozEUDzhBkSEgQoq61J0G6zSzO3GLR+aFinQw7WAO07xFxwZ
+NMscMkn0SZvD6FFD1RKQwifR+bRwk65GAgA7'
