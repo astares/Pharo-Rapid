@@ -1,13 +1,15 @@
 {
 	"commentStamp" : "TorstenBergmann 1/21/2018 21:35",
-	"super" : "RPDObject",
+	"super" : "RDPNamedObject",
 	"category" : "Rapid-Core-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [
 		"Default"
 	],
-	"instvars" : [ ],
+	"instvars" : [
+		"shelfs"
+	],
 	"name" : "RPDLibrary",
 	"type" : "normal"
 }

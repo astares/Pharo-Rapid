@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "TorstenBergmann 1/21/2018 21:31",
-	"super" : "RPDObject",
+	"super" : "RDPNamedObject",
 	"category" : "Rapid-Core-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],

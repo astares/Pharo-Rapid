@@ -1,13 +1,13 @@
 {
-	"commentStamp" : "TorstenBergmann 1/21/2018 21:31",
-	"super" : "RDPNamedObject",
+	"commentStamp" : "TorstenBergmann 1/21/2018 22:06",
+	"super" : "RPDObject",
 	"category" : "Rapid-Core-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"pages"
+		"name"
 	],
-	"name" : "RPDBook",
+	"name" : "RDPNamedObject",
 	"type" : "normal"
 }

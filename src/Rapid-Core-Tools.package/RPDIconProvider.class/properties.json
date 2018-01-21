@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 1/21/2018 21:49",
+	"super" : "Object",
+	"category" : "Rapid-Core-Tools-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IconCache"
+	],
+	"instvars" : [ ],
+	"name" : "RPDIconProvider",
+	"type" : "normal"
+}
