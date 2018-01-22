@@ -6,5 +6,6 @@ gtInspectModelOn: composite
 	composite tree
 		title: 'Hierarchy'; 
 		display: [ self shelfs values ];
+		icon: [:el | el icon ];
 		format: [ :each | each name asString ];
-		when: [ self shelfs notEmpty ] 
+		act: [:table | self addNewShelf. table update  ] icon: RPDShelf systemIcon entitled: 'Add shelf'	

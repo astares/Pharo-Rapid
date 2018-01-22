@@ -6,5 +6,7 @@ gtInspectShelfsOn: composite
 	composite table
 		title: 'Shelfs'; 
 		display: [ self shelfs values ];
-		when: [ self shelfs notEmpty ];
-		column: 'Name' evaluated: [ :each | each name asString ]
+		icon: [:el | el icon ];
+		"column: 'Name' evaluated: [:x | self iconRowFor: x evaluating: #name ];	"
+		column: 'Name' evaluated: [ :each | each name asString ];		
+		act: [:table | self addNewShelf. table update  ] icon: RPDShelf systemIcon entitled: 'Add shelf'

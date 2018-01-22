@@ -1,5 +1,5 @@
 interface opening
-openOn: anActionManager
+openOn: aLibrary
  
 
 	|inspector|
@@ -8,4 +8,4 @@ openOn: anActionManager
 	inspector presentationFilter: (GTInspectorTagFilter new 
 												defaultTag: #rapid;
 												addAndSelectTag: #rapid).
-	inspector openOn: anActionManager 
+	inspector openOn: aLibrary 

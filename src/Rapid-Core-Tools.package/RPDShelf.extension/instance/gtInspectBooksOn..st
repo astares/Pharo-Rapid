@@ -5,6 +5,5 @@ gtInspectBooksOn: composite
 	
 	composite table
 		title: [ 'Books' translated ]; 
-		display: [ self books values ];
-		when: [ self books notEmpty ];
+		display: [ self books values ];	
 		column: 'Name' evaluated: [ :each | each name asString ]

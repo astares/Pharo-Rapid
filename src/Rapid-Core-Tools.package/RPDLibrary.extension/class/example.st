@@ -16,5 +16,6 @@ example
 		addBook: book2.
 
 	lib addShelf: shelf.
+	lib addShelf: (RPDShelf named: 'second').
 		
 	RPDLibraryBrowser openOn: lib
