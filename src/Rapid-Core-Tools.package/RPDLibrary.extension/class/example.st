@@ -2,8 +2,17 @@
 example
 	<example>
 	
-	| lib |
+	| lib shelf book1 book2 |
 	lib := RPDLibrary new.
-	lib addShelf: (RPDShelf named: 'admin').
+	shelf := RPDShelf named: 'admin'.
+	book1 := RPDBook named: 'Book 1'.
+	book2 := RPDBook named: 'Book 2'.
+	
+	shelf 
+		addBook: book1;
+		addBook: book2.
+
+	lib addShelf: shelf.
+	
 	
 	RPDLibraryBrowser openOn: lib
