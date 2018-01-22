@@ -1,10 +1,10 @@
 *Rapid-Core-Tools
-gtInspectShelfsOn: composite
+gtInspectBooksOn: composite
 	<gtInspectorPresentationOrder: 2>
 	<rapid>
 	
 	composite table
-		title: 'Shelfs'; 
-		display: [ self shelfs values ];
-		when: [ self shelfs notEmpty ];
+		title: [ 'Books' translated ]; 
+		display: [ self books values ];
+		when: [ self books notEmpty ];
 		column: 'Name' evaluated: [ :each | each name asString ]

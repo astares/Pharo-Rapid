@@ -6,4 +6,5 @@ gtInspectModelOn: composite
 	composite tree
 		title: 'Hierarchy'; 
 		display: [ self shelfs values ];
+		format: [ :each | each name asString ];
 		when: [ self shelfs notEmpty ] 
